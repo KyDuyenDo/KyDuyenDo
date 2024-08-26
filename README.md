@@ -27,3 +27,5 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java" alt="java logo" title="java" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular" alt="angular logo" title="java" height="25" /></span>
+&nbsp;
